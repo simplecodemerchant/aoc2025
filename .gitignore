@@ -1,0 +1,10 @@
+/_build/
+/cover/
+/deps/
+/doc/
+/tmp/
+erl_crash.dump
+*.ez
+advent_2025-*.tar
+.elixir_ls
+.expert
